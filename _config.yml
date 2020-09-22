@@ -1030,3 +1030,5 @@ carousel:
       'img': 'https://cdn.jsdelivr.net/gh/leafjame/cdn/img/carousel/photos.png'
     }
   ]
+
+theme: jekyll-theme-minimal
